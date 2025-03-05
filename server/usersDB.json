@@ -1,0 +1,10 @@
+// when you will login  user data here will autoMAtically add Data
+[
+  {
+    "id": "a6702dce-eae0-4423-9122-f50ee7aa5a8c",
+    "name": "ashrafulmomin",
+    "email": "ashrafulmomin2@gmail.com",
+    "password": "abcd",
+    "rootDirId": "808eda11-93a7-470e-b171-173a8cdf834d"
+  }
+]
